@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Menu() {
+function Search() {
   return (
     <h1>
-      menu page
+      search page
     </h1>
   )
 }
 
-export default Menu
+export default Search
